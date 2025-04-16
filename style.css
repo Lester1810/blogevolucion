@@ -23,7 +23,7 @@ nav a {
   font-weight: 500;
   position: relative;
   transition: color 0.3s;
-  font-size: 25px;
+  font-size: 150%;
 }
 
 nav a::after {
